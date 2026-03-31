@@ -1,16 +1,50 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e3a8a,50:2563eb,100:3b82f6&text=Leonardo%20Chávez&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=fadeIn&stroke=000000&desc=Backend%20|%20Full-Stack%20Developer&descSize=25&descAlignY=61"/>
+</p>
 
-<!--
-**LeoChavez-DEV/LeoChavez-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Chávez-blue?logo=linkedin)](https://www.linkedin.com/in/leonardo-steven-chávez-ricaurte)   /   [![Portfolio](https://img.shields.io/badge/Portfolio-black)](LINK) Waiting...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Sobre mí
+
+```javascript
+const leo = {
+  pronombres: "he/him",
+  ubicación: "Barcelona, España",
+  rol: "Backend | Full-Stack Developer",
+
+  lenguajePrincipal: "Java",
+
+  code: ["Java", "JavaScript", "TypeScript", "Python"],
+  tools: ["Spring", "React", "Node.js", "Git", "Docker"],
+
+  intereses: ["Backend", "Arquitectura de software", "Construir proyectos", "Aprender constantemente"],
+
+  aprendiendo: ["Backend avanzado", "Diseño de sistemas", "Clean Architecture"],
+
+  otrosConocimientos: ["PHP", "Laravel", "Astro", "MongoDB"],
+
+  objetivo: "Seguir mejorando como desarrollador backend / full-stack"
+}
+```
+---
+
+<table width="100%">
+<tr>
+<td align="left">
+
+<i>"Seguiré esforzándome hasta convertirme en alguien más fuerte."</i><br>
+— Bell Cranel
+
+</td>
+
+<td align="right">
+
+<img src="https://i.pinimg.com/736x/87/fc/74/87fc747b0253a80ffd93369215876443.jpg" width="70">
+
+</td>
+</tr>
+</table>
+
+
