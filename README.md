@@ -25,6 +25,8 @@ const leo = {
 
   otrosConocimientos: ["PHP", "Laravel", "Astro", "MongoDB"],
 
+  aficiones: ["Calistenia", "Videojuegos", "Series", "Descubrir buena comida"],
+
   objetivo: "Seguir mejorando como desarrollador backend / full-stack"
 }
 ```
@@ -41,7 +43,7 @@ const leo = {
 
 <td align="right">
 
-<img src="https://i.pinimg.com/736x/87/fc/74/87fc747b0253a80ffd93369215876443.jpg" width="70">
+<img src="https://i.pinimg.com/originals/4a/75/93/4a7593b072dda0214d475473dea23337.gif" width="70">
 
 </td>
 </tr>
